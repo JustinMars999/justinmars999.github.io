@@ -8,6 +8,7 @@ const videos = [
   {id:'omron-02',title:'Omron robot arm · demonstration 2',period:'2021 · ROBOT-ARM WORK',group:'arms',duration:'0:12',portrait:true,description:'A second view of my Omron robot-arm work in 2021.'},
   {id:'omron-03',title:'Omron robot arm · demonstration 3',period:'2021 · ROBOT-ARM WORK',group:'arms',duration:'0:49',portrait:true,description:'Omron robot-arm footage recorded in 2021.'},
   {id:'omron-04',title:'Omron robot arm · demonstration 4',period:'2021 · ROBOT-ARM WORK',group:'arms',duration:'0:06',portrait:true,description:'A short clip from my 2021 Omron robot-arm work.'},
+  {id:'mobile-robot-prototype',title:'Mobile robot prototype',period:'UNDERGRADUATE PROJECT',group:'early',duration:'0:46',portrait:true,description:'A wheeled robot prototype carrying onboard computer hardware during an indoor demonstration. The associated project photograph shows the same platform beside a marked route.'},
   {id:'bluetooth-car',title:'My first Bluetooth robot car',period:'AGE 16 · EARLY PROJECT',group:'early',duration:'0:09',portrait:false,description:'A simple Bluetooth robot car I built when I was 16. One of my early practical projects in robotics.'}
 ];
 const grid = document.getElementById('video-grid');
